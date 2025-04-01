@@ -1,0 +1,11 @@
+Passo a passo para ativar Swagger
+
+
+🔹 1. Instale as dependências Swagger
+    npm install --save @nestjs/swagger swagger-ui-express
+
+🔹 2. Rode 
+    npm run start
+
+🔹 3. Acesse no navegador
+    http://localhost:3000/api
